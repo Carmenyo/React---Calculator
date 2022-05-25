@@ -1,0 +1,19 @@
+@import '../core/variables';
+.boton-clear {
+    height: 50px;
+    font-size: 1.6em;
+    display: flex;
+    flex: 1;
+    margin-top: 30px;
+    background-color:$color-3;
+    border: 2px solid rgb(11, 11, 11);
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    color: black;
+    cursor: pointer;
+}
+
+.boton-clear:hover{
+    background-color:$color-1 ;
+}

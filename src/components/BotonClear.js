@@ -1,5 +1,5 @@
 import React from "react";
-import "../styles/BotonClear.scss"
+import "../styles/layout/_botonClear.scss"
 
 const BotonClear = (props) => (
     <div className="boton-clear" 

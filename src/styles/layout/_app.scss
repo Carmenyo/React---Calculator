@@ -1,7 +1,10 @@
+@import '../core/variables';
+@import '../core/reset';
+
 .App {
     height: 100vh;
     padding-top:10px;
-    background-color: rgb(62, 58, 58);
+    background-color:   $color-1;
     font-family: lato, sans-serif;
     display: flex;
     flex-wrap: wrap;
@@ -13,9 +16,9 @@
     width: 400px;
     height: 600px;
     padding: 15px;
-    background-color: aliceblue;
+    background-color: $color-4;
     border-radius: 25px;
-    border: solid 10px black;
+    border: solid 10px  black;
 }
 
 .fila {

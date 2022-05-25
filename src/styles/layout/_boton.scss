@@ -1,24 +1,25 @@
+@import "../core/variables";
 .boton-contenedor {
-    height: 83px;
+    height: 70px;
     display: flex;
     flex: 1 1;
     justify-content: center;
     text-align: center;
     font-weight: bold;
     font-size: 38px;
-    background-color: black;
-    color: white;
-    border-radius: 25px;
-    border: 2px solid green;
+    background-color: $color-2;
+    color: black;
+    border-radius: 20px;
+    border: 2px solid rgb(11, 11, 11);
     margin: 4px;
     cursor: pointer;
     user-select: none;
 }
 
 .operador {
-    background-color: palevioletred;
+    background-color: $color-3;
 }
 
 .boton-contenedor:hover{
-    background-color: #5a01a7;
+    background-color: $color-1;
 }

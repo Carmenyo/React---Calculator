@@ -1,5 +1,5 @@
 import React from "react";
-import "../styles/Pantalla.scss"
+import "../styles/layout/_pantalla.scss"
 
 const Pantalla = ({ input}) => (
     

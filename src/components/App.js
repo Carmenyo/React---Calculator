@@ -1,8 +1,9 @@
 
-import '../styles/App.scss';
+import '../styles/layout/_app.scss';
 import Boton from './Boton';
 import Pantalla from "./Pantalla"
 import BotonClear from './BotonClear';
+import Footer from './Footer';
 import {useState} from "react";
 import {evaluate} from "mathjs";
 
@@ -19,7 +20,7 @@ function App() {
    };
 
   return (
-  
+  <>
     <div className='App'>
     <div className='contenedor-calculadora'>
     <Pantalla input={input}/>
@@ -53,9 +54,8 @@ function App() {
     </BotonClear>
     </div>
     </div>
-  
-  
-    
+    <Footer></Footer>
+  </> 
   );
 }
 
