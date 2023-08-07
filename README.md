@@ -13,7 +13,7 @@ A simple calculator built using React, HTML, and CSS. This calculator allows per
 ## Technologies Used 🛠️
 
 - React: JavaScript library for building user interfaces.
-- HTML: Markup language for structuring the web page.
+- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>> HTML: Markup language for structuring the web page.
 - CSS: Styling language for design and presentation.
 
 ## Usage Instructions
