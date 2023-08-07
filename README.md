@@ -2,7 +2,7 @@
 
 A simple calculator built using React, HTML, and CSS. This calculator allows performing basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-![Calculator Preview](calculator.png)
+![Calculator Preview](../react-calculator/src/images/calculator.png)
 
 ## Features
 
@@ -12,12 +12,9 @@ A simple calculator built using React, HTML, and CSS. This calculator allows per
 
 ## Technologies Used 🛠️
 
-- React ![React Icon](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/svg/brands/react.svg)
-  React: JavaScript library for building user interfaces.
-- HTML ![HTML Icon](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/svg/brands/html5.svg)
-  HTML: Markup language for structuring the web page.
-- CSS ![CSS Icon](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/svg/brands/css3-alt.svg)
-  CSS: Styling language for design and presentation.
+- React: JavaScript library for building user interfaces.
+- HTML: Markup language for structuring the web page.
+- CSS: Styling language for design and presentation.
 
 ## Usage Instructions
 
