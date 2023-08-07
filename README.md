@@ -2,7 +2,7 @@
 
 A simple calculator built using React, HTML, and CSS. This calculator allows performing basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-![Calculator Preview](../react-calculator/src/images/calculator.png)
+![Calculator Preview](./docs/calculator.png)
 
 ## Features
 
